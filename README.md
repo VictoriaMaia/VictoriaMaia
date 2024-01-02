@@ -1,16 +1,15 @@
+## Victória Maia 😄
+
 ### Hi there 👋
 
-<!--
-**VictoriaMaia/VictoriaMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with Data Engineer and QA
+- 🌱 And I'm a researcher in the area of photophoretic forces
 
-Here are some ideas to get you started:
+### Connect with me:  
+<p align="left">
+<a href="https://www.linkedin.com/in/victoria-maia-" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriamaia&show_icons=true&locale=en&layout=compact" alt="victoriamaia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriamaia&show_icons=true&locale=en" alt="victoriamaia" /></p>
