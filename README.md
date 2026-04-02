@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working with Data Engineer and QA
+- 🔭 I’m a QA with 5 years of experience working with automation, but I frequently need to do manual tests.
 - 🌱 And I'm a researcher in the area of photophoretic forces
 
 ### Connect with me:  
